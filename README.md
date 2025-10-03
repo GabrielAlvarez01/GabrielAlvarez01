@@ -14,13 +14,13 @@
 <h2> Some of my Information Technology Projects 🧑🏻‍💻:</h2>
 
 - <b>osTicket (Help Desk Ticketing System) 🧑🏻‍💻🗃️</b>
-  - [Prerequisites and Installation](https://github.com/GabrielAlvarez01/osticket-prereqs)
-  - [Post-Installation Configuration](https://github.com/GabrielAlvarez01c/post-install-config)
-  - [Ticket Lifecycle Examples](https://github.com/GabrielAlvarez01/ticket-lifecycle)
-- <b>Microsoft Azure 👥💻</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/GabrielAlvarez01/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/GabrielAlvarez01/azure-network-protocols)
+  - [![Static Badge](https://img.shields.io/badge/Prerequisites%20and%20Installation-black?style=for-the-badge)](https://github.com/GabrielAlvarez01/osticket-prereqs)
+  - [![Static Badge](https://img.shields.io/badge/Post%20Installation%20Configuration-black?style=for-the-badge)]()
+  - [![Static Badge](https://img.shields.io/badge/Ticket%20Lifecycle%20Examples-black?style=for-the-badge)]()
 
+-  <b>Microsoft Azure 👥💻</b>
+  - [![Static Badge](https://img.shields.io/badge/Configuring%20Onpremises%20Active%20Directory%20within%20Azure%20VMs-black?style=for-the-badge)]()
+  - [![Static Badge](https://img.shields.io/badge/Network%20Security%20Groups%20(NSGs)%20and%20Inspecting%20Network%20Protocols-black?style=for-the-badge)]()
 <h2> About me 🧙🏻‍♂️</h2>
 
 - I'm learning help desk
